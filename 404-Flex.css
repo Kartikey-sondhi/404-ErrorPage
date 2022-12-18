@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat:wght@200&family=Space+Mono&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.heading p {
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 77px;
+    top: 40px;
+
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+
+    color: #333333;
+}
+
+.heading {
+    height: 230px;
+    display: block;
+}
+
+.scarecrow-part img {
+    /* width: 539.22px;
+    height: 414.25px; */
+    width: 70%;
+    
+    justify-content: center;
+}
+.News-heading{
+    width: 70%;
+    margin-bottom: 4%;
+}
+.News-heading p {
+
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 57px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+
+}
+.News-heading-subtext{
+    margin-bottom: 10%;
+    
+}
+.News-heading-subtext p {
+
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    width: 53%;
+    /* Gray 2 */
+    color: #4F4F4F;
+
+}
+
+.Reverse-button button {
+    width: 216px;
+height: 68px;
+    /* Gray 1 */
+    background: #333333;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center;
+    align-items: center; */
+}
+.scarecrow-part{
+    /* margin: 1px 0px; */
+    min-width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.footer p a{
+    text-decoration: center;
+}
