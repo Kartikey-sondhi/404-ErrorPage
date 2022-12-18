@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<img src="Screenshot 2022-12-18 at 5.59.56 PM.jpg" alt="error loading image" ></img>
 
 Introduction to the project:
 
