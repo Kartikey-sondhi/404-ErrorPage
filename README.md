@@ -32,7 +32,7 @@
 
 ## Overview
 
-<img src="Screenshot 2022-12-18 at 5.59.56 PM.jpg" alt="error loading image" ></img>
+<img src="Screenshot 2022-12-18 at 5.59.56 PM.jpg" alt="Error loading image" ></img>
 
 Introduction to the project:
 
@@ -45,6 +45,7 @@ Introduction to the project:
 
 - HTML
 - CSS
+
 
 ## Features
 
